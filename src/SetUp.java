@@ -1,15 +1,19 @@
 public class SetUp {
     // Setting up project for group 18
+  
+    public static void main(String[] args) {
 
-    //made some changes
-    // Daur is adding some changes
-
-    //Adding more changes (Daur)
-
-    // Marina2 added this line
-
-    // Marina2 made second changed
+        String str1 = "James";
+        System.out.println(str1);
 
 
 
+    }
 }
+
+
+    
+
+
+
+
