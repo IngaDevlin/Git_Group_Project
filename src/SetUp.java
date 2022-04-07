@@ -1,5 +1,9 @@
 public class SetUp {
     public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Hello group 18!");
+
+        }
         //Inga made some changes
     }
     // Setting up project for group 18
